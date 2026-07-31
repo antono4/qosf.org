@@ -1,7 +1,1 @@
-# qosf.org
-
-> **Created by Antono**
-
-
-This is a repository hosting the www.qosf.org site, the universal source of
-information about open source software for quantum computing.
+Last updated: 2026-07-31 15:44:36 WIB
