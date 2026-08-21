@@ -1,2 +1,26 @@
-Last updated: 2026-08-22 00:14:08 WIB
-Last updated: 2026-08-22 00:23:31 WIB
+# qosf.org
+
+
+
+## 📋 Overview
+
+This repository contains **137 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-22 00:24:00 WIB*
